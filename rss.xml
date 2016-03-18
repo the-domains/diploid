@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Diploid]]></title>
+        <description><![CDATA[Diploid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 20:40:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Arma virumque cano, Troiae qui primus ab orisItaliam, fato profugus, Laviniaque venitlitora, multum ille et terris iactatus et altovi superum saevae memorem Iunonis ob iram;multa quoque et bello passus, dum conderet urbem,inferretque deos Latio, genus unde Latinum,Albanique patres, atque altae moenia Romae.</p>]]></description>
+            <link>undefined9bd4d3dc-4fe7-4bdb-b32a-2c549a5bfe88/index.html</link>
+            <guid isPermaLink="false">9bd4d3dc-4fe7-4bdb-b32a-2c549a5bfe88</guid>
+            <pubDate>Fri, 18 Mar 2016 20:40:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
